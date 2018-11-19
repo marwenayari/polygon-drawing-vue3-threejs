@@ -6,7 +6,6 @@
 
 <script>
 import DrawingBoard from './components/DrawingBoard.vue'
-import THREE from 'three'
 
 export default {
   name: 'app',
